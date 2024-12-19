@@ -119,7 +119,7 @@ local RunCount = false
 -- // // // Functions // // // --
 function ShowNotification(String)
     Fluent:Notify({
-        Title = "CupPink Hub",
+        Title = "TT1403",
         Content = String,
         Duration = 5
     })
